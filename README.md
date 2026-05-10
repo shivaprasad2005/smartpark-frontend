@@ -6,7 +6,7 @@
 ## Screenshots
 
 ### Register & Login
-![Register]("C:\Users\shiva\OneDrive\Pictures\SRPS images\Register.png")
+![Register]("screenshots/Register.png")
 ![Login](screenshots/login.png)
 
 ### User Dashboard
