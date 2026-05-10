@@ -6,23 +6,23 @@
 ## Screenshots
 
 ### Register & Login
-![Register]("screenshots/Register.png")
-![Login](screenshots/login.png)
+![Register](register.png)
+![Login](login.png)
 
 ### User Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Browse & Book Slots
-![Slots](screenshots/slots.png)
+![Slots](slots.png)
 
 ### Booking Summary & Payment
-![Booking](screenshots/booking.png)
+![Booking](booking.png)
 
 ### My Bookings
-![My Bookings](screenshots/mybookings.png)
+![My Bookings](mybookings.png)
 
 ### Admin Panel
-![Admin](screenshots/admin.png)
+![Admin](admin.png)
 
 ## Tech Stack
 
